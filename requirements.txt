@@ -1,0 +1,11 @@
+seaborn
+matplotlib
+pandas
+shap 
+xgboost
+sphinx
+mock
+breathe
+sh
+graphviz
+numpy
