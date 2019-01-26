@@ -9,3 +9,8 @@ breathe
 sh
 graphviz
 numpy
+lime
+sklearn
+eli5
+pydotplus
+graphviz
