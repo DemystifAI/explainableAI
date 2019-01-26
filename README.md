@@ -37,10 +37,9 @@ To install the required packages for this session, the easiest way is by using t
 ```
 pip install -r requirements.txt
 ```
-To install Shapley and xgboost, one recommended way is the following:
+To install Shap and xgboost, one recommended way is the following:
 ```
-conda config --add channels conda-forge
-conda install shapely
+conda install -c conda-forge shap 
 conda install py-xgboost
 ```
 
