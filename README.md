@@ -1,4 +1,4 @@
-# explainableAI
+# eXplainableAI
 ## Repository for the Applied Machine Learning Days workshop on explainable AI
 
 Welcome to the Explainable AI Workshop! In this session we will explore some basic concepts of building machine learning models with the additional feature of creating procedures for interpreting models and their features. An important step in explainable AI is to be able to create models that can be interpreted, validated, and verified in a transparent fashion. In order to do this, we've put together some notebooks that will help clarify the process in several steps of introducing some recent tools for building explainable models. 
